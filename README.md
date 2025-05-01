@@ -2,27 +2,38 @@
 <h2 align="center">Hi there, I'm Naincy Shukla 👋</h2>
 
 🎓 B.Tech Computer Science student at KNIPSS, Sultanpur  
-💡 Interested in Data Science, Machine Learning & Deep Learning  
-🔭 Currently working on AI-powered apps and deployment  
+💡 Passionate about Data Science, Machine Learning & Deep Learning  
+🔭 Currently building AI-powered projects and deploying them with Streamlit  
 📫 Reach me at: naincyshukla34@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/naincyshukla12/) | [GitHub](https://github.com/naincy1229)
 
 ---
 
 ### 🚀 Skills & Technologies
-- **Languages**: Python, Java (basic), SQL  
-- **Tools**: Jupyter Notebook, Git, VS Code, Streamlit  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, OpenCV  
-- **ML/DL**: Scikit-learn, TensorFlow, Keras, CNN, RNN
+
+- **Languages:** Python, Java (Basic), SQL  
+- **Concepts:** Data Structures & Algorithms, Object-Oriented Programming  
+- **Libraries/Tools:** Pandas, NumPy, Seaborn, Matplotlib, OpenCV, Scikit-learn, TensorFlow, Keras  
+- **Dev Tools:** Git & GitHub, Jupyter Notebook, VS Code, Streamlit, Linux basics  
 
 ---
 
 ### 🛠️ Projects
-- 🔍 [AI Vision Suite](https://ai-vision-suite-4.onrender.com): Face detection, emotion recognition, text detection, age & gender prediction  
-- 🎬 [Movie Recommender System](https://movie-recommender-system-1-5fcq.onrender.com/): Content-based recommendation using similarity scores  
-- 💬 [WhatsApp Chat Analyzer](https://whatsapp-chat-analyzer-5r16.onrender.com): Analyze personal chats using Python and visual tools  
+
+- 🔍 [AI Vision Suite](https://ai-vision-suite-4.onrender.com)  
+  Face detection, emotion recognition, text extraction, age/gender prediction.
+
+- 🎬 [Movie Recommender System](https://movie-recommender-system-1-5fcq.onrender.com/)  
+  Recommends similar movies based on content features using cosine similarity.
+
+- 💬 [WhatsApp Chat Analyzer](https://whatsapp-chat-analyzer-5r16.onrender.com)  
+  Analyze chat data with message counts, timelines, and visual charts.
 
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naincy1229&show_icons=true&theme=default)
+
+![Naincy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naincy1229&show_icons=true&theme=default)
+
+---
+
