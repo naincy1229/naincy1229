@@ -32,6 +32,8 @@ Recommends similar movies based on content features using cosine similarity.
 
 💬 WhatsApp Chat Analyzer
 Analyze chat data with message counts, timelines, and visual charts
+
+
 ---
 
 ### 📈 GitHub Stats
