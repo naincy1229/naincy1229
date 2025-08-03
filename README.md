@@ -21,17 +21,17 @@
 ### 🛠️ Projects
 
 
-🤖 Our AI
-Ask any question freely with this Gemini-powered chatbot. No personal training required—just pure conversational AI.
+- 🤖 [Our AI](https://our-ai.onrender.com)  
+  Gemini-powered chatbot where you can ask anything. No personal training required.
 
-🔍 AI Vision Suite
-Face detection, emotion recognition, text extraction, age/gender prediction.
+- 💬 [WhatsApp Chat Analyzer](https://whatsapp-chat-analyzer-5r16.onrender.com)  
+  Analyze chat data with message counts, timelines, and visual charts.
 
-🎬 Movie Recommender System
-Recommends similar movies based on content features using cosine similarity.
+- 🎬 [Movie Recommender System](https://movie-recommender-system-1-5fcq.onrender.com)  
+  Recommends similar movies based on content features using cosine similarity.
 
-💬 WhatsApp Chat Analyzer
-Analyze chat data with message counts, timelines, and visual charts
+- 🔍 [AI Vision Suite](https://ai-vision-suite-4.onrender.com)  
+  Face detection, emotion recognition, text extraction, age/gender prediction.
 
 
 ---
